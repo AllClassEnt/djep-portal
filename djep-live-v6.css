@@ -13,6 +13,7 @@
      --djep-brand-dark / --djep-brand-soft / --djep-button-bg* variables too.
      ============================================================================ */
   --djep-brand: #eba91f;
+  --djep-banner-dark: #212121;
 
   /* Auto-derived shades. oklch() darkens by reducing lightness while keeping
      the same hue + chroma, so warm brand colors (orange, yellow, red) stay
