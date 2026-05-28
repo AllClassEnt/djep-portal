@@ -46,8 +46,8 @@
      Non-brand tokens — typography, surfaces, borders, etc. */
   --djep-font-family: "Montserrat", "Segoe UI", Arial, sans-serif;
   --djep-font-heading: "Oswald", "Montserrat", "Segoe UI", Arial, sans-serif;
-  --djep-page-bg: #212121;
-  --djep-surface: #ffffff;
+  --djep-page-bg: #f3f5f9;
+  --djep-surface: #212121;
   --djep-surface-muted: #f8f9fc;
   --djep-surface-strong: #eef1f7;
   --djep-border: #d8dfeb;
