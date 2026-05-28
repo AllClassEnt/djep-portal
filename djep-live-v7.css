@@ -13,7 +13,6 @@
      --djep-brand-dark / --djep-brand-soft / --djep-button-bg* variables too.
      ============================================================================ */
   --djep-brand: #eba91f;
-  --djep-banner-dark: #212121;
 
   /* Auto-derived shades. oklch() darkens by reducing lightness while keeping
      the same hue + chroma, so warm brand colors (orange, yellow, red) stay
@@ -47,7 +46,7 @@
      Non-brand tokens — typography, surfaces, borders, etc. */
   --djep-font-family: "Montserrat", "Segoe UI", Arial, sans-serif;
   --djep-font-heading: "Oswald", "Montserrat", "Segoe UI", Arial, sans-serif;
-  --djep-page-bg: #f3f5f9;
+  --djep-page-bg: #212121;
   --djep-surface: #ffffff;
   --djep-surface-muted: #f8f9fc;
   --djep-surface-strong: #eef1f7;
