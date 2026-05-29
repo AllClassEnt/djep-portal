@@ -12,7 +12,7 @@
      If you want fine-grained control, you can override the individual
      --djep-brand-dark / --djep-brand-soft / --djep-button-bg* variables too.
      ============================================================================ */
-  --djep-brand: #eba91f;
+  --djep-brand: #9906b4;
 
   /* Auto-derived shades. oklch() darkens by reducing lightness while keeping
      the same hue + chroma, so warm brand colors (orange, yellow, red) stay
@@ -47,7 +47,7 @@
   --djep-font-family: "Montserrat", "Segoe UI", Arial, sans-serif;
   --djep-font-heading: "Oswald", "Montserrat", "Segoe UI", Arial, sans-serif;
   --djep-page-bg: #f3f5f9;
-  --djep-surface: #212121;
+  --djep-surface: #f3f5f9;
   --djep-surface-muted: #f8f9fc;
   --djep-surface-strong: #eef1f7;
   --djep-border: #d8dfeb;
